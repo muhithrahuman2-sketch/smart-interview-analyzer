@@ -1,0 +1,18 @@
+{
+    "skills": [
+        "Communication",
+        "Problem Solving",
+        "Adaptability"
+    ],
+    "questions": [
+        "Can you explain your project work in Communication?",
+        "Can you explain your project work in Problem Solving?",
+        "Can you explain your project work in Adaptability?",
+        "Tell me about a time you handled a difficult technical challenge?"
+    ],
+    "topics": [
+        "Data Structures & Algorithms",
+        "Database Management Systems",
+        "Software Engineering Concepts"
+    ]
+}
